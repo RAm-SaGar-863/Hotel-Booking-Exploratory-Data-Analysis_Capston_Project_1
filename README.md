@@ -1,4 +1,3 @@
 # Capston-project-1 HOTEL BOOKING ANALYSIS
 
-![customer hotel booking analysis](https://github.com/RAm-SaGar-863/Hotel-Booking-Exploratory-Data-Analysis_Capston_Project_1/assets/128234583/07d28b24-c1a8-4b56-b420-676154d9cfd6)
-
+![customer hotel booking analysis](https://github.com/RAm-SaGar-863/Hotel-Booking-Exploratory-Data-Analysis_Capston_Project_1/assets/128234583/04239dd6-4f15-469c-9c86-945bf8e77dc3)
