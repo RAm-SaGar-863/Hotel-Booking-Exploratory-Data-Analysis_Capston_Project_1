@@ -36,7 +36,7 @@ For better data utilization, we transformed the 'reservation_status_date' column
 
 Prior to data visualization, thorough data wrangling was crucial. Null values were assessed across all columns, and minimal nulls were addressed through the 'fillna()' method.
 
-Subsequently, we delved into data visualization, employing various charts to gain deeper insights into the dataset. The visualization process aimed to uncover pivotal factors influencing hotel bookings, ultimately providing valuable business insights to bolster the hospitality industry.
+Subsequently, we delved into data visualization, employing various charts to gain deeper insights into the dataset. The visualization process aimed to uncover pivotal factors influencing hotel bookings, ultimately providing valuable business insights to bolster the hotel industry.
 
 In essence, this project revolved around the extensive exploration and analysis of the dataset, unearthing critical factors that govern hotel bookings. The findings and insights derived from this EDA endeavor hold the potential to significantly impact and enhance business outcomes in the hotel industry.
 
